@@ -1,2 +1,0 @@
-# Projects
-Making full projects
